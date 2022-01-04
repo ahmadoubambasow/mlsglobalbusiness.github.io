@@ -1,0 +1,171 @@
+#nomentreprise
+{
+	margin-left: 100px;
+	color: white;
+	font-size: 35px;
+}
+#test
+{
+	border: 5px solid orange;
+	background-color: midnightblue;
+	height: 350px;
+}
+img
+{
+	margin-top: 400px;
+}
+#p1
+{
+	border: 5px solid orange;
+	height: 60px;
+	width: 25px;
+	margin-left: 550px;
+	margin-top: -300px;
+}
+#p1:hover
+{
+	transition: color 0.25s;
+	cursor: pointer;
+	border: antiquewhite solid 5.3px;
+}
+#p2
+{
+	border: 5px solid red;
+	height: 60px;
+	width: 25px;
+	margin-left: 580px;
+	margin-top: -30px;
+}
+#p2:hover
+{
+	transition: color;
+	cursor: pointer;
+	border: greenyellow solid 5.3px;
+}
+#p3
+{
+	border: 5px solid yellow;
+	height: 60px;
+	width: 25px;
+	margin-left: 610px;
+	margin-top: -30px;
+}
+#p3:hover
+{
+	transition: color;
+	cursor: pointer;
+	border: gray solid 5.3px;
+}
+#p4
+{
+	border: 5px solid teal;
+	height: 60px;
+	width: 25px;
+	margin-left: 640px;
+	margin-top: -30px;
+}
+#p4:hover
+{
+	transition: color;
+	cursor: pointer;
+	border: gray solid 5.3px;
+}
+#p5
+{
+	border: 5px solid white;
+	height: 60px;
+	width: 25px;
+	margin-left: 670px;
+	margin-top: -30px;
+}
+#p5:hover
+{
+	transition: color;
+	cursor: pointer;
+	border: olivedrab solid 5.3px;
+}
+.zonedroite
+{
+	border: 6px solid blanchedalmond;
+	width: 400px;
+	height: 700px;
+	float: right;
+	margin-top: 51px;
+	background-color: teal;
+}
+#zonedroite
+{
+	margin-left: 100px;
+	margin-top: 0px;
+	color: yellow;
+}
+#domaine
+{
+	margin-left: 100px;
+	margin-top: 200px;
+	color: white;
+	text-decoration: underline;
+}
+
+.pieddepage
+{
+	border: 6px solid orange;
+	width: 0 auto;
+	height: 200px;
+	margin-top: 767px;
+	background-color: midnightblue;
+}
+ul
+{
+	list-style: none;
+}
+footer
+{
+	color: white;
+	text-decoration: underline;
+}
+#produit
+{
+	margin-top: -175px;
+	margin-left: 270px;
+}
+#produit1
+{
+	margin-left: 50px;
+}
+#produit2
+{
+	margin-left: 500px;
+	margin-top: -109px;
+}
+#multiservice
+{
+	float: right;
+	margin-right: 310px;
+	margin-top: -155px;
+	text-decoration: underline;
+}
+#multi
+{
+	float: right;
+	margin-right: 300px;
+	margin-top: -109px;
+	text-decoration: underline;
+}
+#menu li
+{
+	display: inline;
+	color: white;
+}
+#menu
+{
+	float: right;
+	margin-top: 250px;
+	margin-right: 100px;
+	word-spacing: 50px;
+    color: yellow;
+}
+a
+{
+	color: white;
+}
